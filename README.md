@@ -10,7 +10,7 @@ This project implements an efficient algorithm to crossmatch star catalog (Gaia 
 ## Results
 The algorithm processed 946,431 radio sources and 1,026,436 stars from Gaia DR3 in approximately 6 seconds using 6 processors, demonstrating high efficiency.
 
-![Matching Results](figures/images/result.png)
+![Matching Results](result.png)
 
 ## Documentation
 For more details, you can read the full thesis document [here](https://drive.google.com/file/d/1-OngqpRTozFUxsD3A8Z5mg3TsVMJS712/view?usp=sharing).
