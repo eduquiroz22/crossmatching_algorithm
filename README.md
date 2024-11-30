@@ -14,6 +14,3 @@ The algorithm processed 946,431 radio sources and 1,026,436 stars from Gaia DR3 
 
 ## Documentation
 For more details, you can read the full thesis document [here](https://drive.google.com/file/d/1-OngqpRTozFUxsD3A8Z5mg3TsVMJS712/view?usp=sharing).
-
-## License
-This project is licensed under the MIT License.
